@@ -1,0 +1,47 @@
+node_modules
+.env
+.DS_Store
+dist
+coverage
+.vscode
+.idea
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+# Ignore build output
+build
+# Ignore test output
+test-results
+# Ignore local environment files
+.env.local
+# Ignore production environment files
+.env.production
+# Ignore development environment files
+.env.development
+# Ignore test environment files
+.env.test
+# Ignore temporary files
+*.tmp
+# Ignore cache files
+.cache
+# Ignore logs
+*.log
+# Ignore IDE specific files
+.vscode/
+.idea/
+# Ignore OS specific files
+.DS_Store
+# Ignore coverage reports
+coverage/
+# Ignore build artifacts
+dist/
+# Ignore package lock files
+package-lock.json
+# Ignore yarn lock files
+yarn.lock
+# Ignore pnpm lock files
+pnpm-lock.yaml
+# Ignore npm debug files
+npm-debug.log
