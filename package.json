@@ -29,8 +29,10 @@
   "dependencies": {
     "@elizaos/cli": "latest",
     "@elizaos/core": "latest",
-    "@elizaos/plugin-sql": "latest",
+    "@elizaos/plugin-anthropic": "1.0.3",
     "@elizaos/plugin-bootstrap": "latest",
+    "@elizaos/plugin-local-ai": "1.0.4",
+    "@elizaos/plugin-sql": "latest",
     "zod": "3.24.2"
   },
   "devDependencies": {
